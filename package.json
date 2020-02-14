@@ -1,0 +1,11 @@
+{
+  "name": "kentico-zen",
+  "version": "1.0.0",
+  "description": "Enter Zen mode in Kentico Kontent by hiding parts of UI so you can focus on creating.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Amran",
+  "license": "ISC"
+}
