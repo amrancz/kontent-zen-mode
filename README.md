@@ -6,7 +6,7 @@ Chrome extension for a zen/focus mode inside [Kentico Kontent](https://kontent.a
 Extension Pending Review (link to be added)
 
 ### Manually
-1. Download the extension package ('kontent-zen.zip').
+1. Download the [extension package](https://github.com/amrancz/kontent-zen-mode/blob/master/kontent-zen.zip).
 2. Unpack it.
 3. Open the Extension Management page by navigating to `chrome://extensions`. (The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.)
 4. Enable Developer Mode by clicking the toggle switch next to Developer mode.
