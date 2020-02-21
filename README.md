@@ -3,7 +3,7 @@ Chrome extension for a zen/focus mode inside [Kentico Kontent](https://kontent.a
 
 ## Install
 ### Chrome Web Store
-Extension Pending Review (link to be added)
+https://chrome.google.com/webstore/detail/kontent-zen/bkfcgkkdnojlinnalfgbdnckgdnabklj
 
 ### Manually
 1. Download the [extension package](https://github.com/amrancz/kontent-zen-mode/blob/master/kontent-zen.zip).
